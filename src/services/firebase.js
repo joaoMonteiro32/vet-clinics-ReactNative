@@ -50,7 +50,7 @@ export function useriding(){
 }
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBv_BMJVb-fEcsYjBwJ2QDYzZ8B6_jwzLE",
+  apiKey: "xxxxxxxxxx",
   authDomain: "qrcode-e97a2.firebaseapp.com",
   projectId: "qrcode-e97a2",
   storageBucket: "qrcode-e97a2.appspot.com",
